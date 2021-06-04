@@ -1,8 +1,8 @@
 {
-    "name": "DmTftLibrary-DmTftLibrary",
+    "name": "DmTftLibrary",
     "keywords": "dmtft",
+    "version" : "1.4.1",
     "description": "Display Module TFT library",
-    "include": "DmTftLibrary",
     "frameworks": "arduino",
-    "platforms": "*"
+    "platforms": "atmelavr"
   }

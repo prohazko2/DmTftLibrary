@@ -1,8 +1,8 @@
 {
-    "name": "DmTftLibrary-DmTouchLibrary",
+    "name": "DmTouchLibrary",
     "keywords": "dmtft",
+    "version" : "1.4.1",
     "description": "Display Module Touch library",
-    "include": "DmTouchLibrary",
     "frameworks": "arduino",
-    "platforms": "*"
+    "platforms": "atmelavr"
   }
