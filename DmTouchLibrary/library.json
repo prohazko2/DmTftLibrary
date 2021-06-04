@@ -1,5 +1,5 @@
 {
-    "name": "DmTouchLibrary",
+    "name": "DmTftLibrary-DmTouchLibrary",
     "keywords": "dmtft",
     "description": "Display Module Touch library",
     "include": "DmTouchLibrary",
