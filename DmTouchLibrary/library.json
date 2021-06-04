@@ -1,0 +1,8 @@
+{
+    "name": "DmTouchLibrary",
+    "keywords": "dmtft",
+    "description": "Display Module Touch library",
+    "include": "DmTouchLibrary",
+    "frameworks": "arduino",
+    "platforms": "*"
+  }

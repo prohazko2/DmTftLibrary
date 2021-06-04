@@ -1,0 +1,8 @@
+{
+    "name": "DmTftLibrary",
+    "keywords": "dmtft",
+    "description": "Display Module TFT library",
+    "include": "DmTftLibrary",
+    "frameworks": "arduino",
+    "platforms": "*"
+  }
